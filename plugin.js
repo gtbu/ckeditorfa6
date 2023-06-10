@@ -4,5 +4,6 @@ editor.addCommand('ckeditorfa6', new CKEDITOR.dialogCommand('ckeditorFaDialog',{
 editor.ui.addButton('ckeditorfa6',{label:'FontAwesome6 icons',command:'ckeditorfa6',toolbar:'insert',icon:this.path + 'icons/ckeditorfa.png'});
 CKEDITOR.dialog.add('ckeditorFaDialog', this.path + 'dialogs/ckeditorfa6.js');
 CKEDITOR.document.appendStyleSheet(this.path + 'css/ckeditorfa6.css');
+CKEDITOR.document.appendStyleSheet(this.path + 'css/all.min.css');
 }
 });
