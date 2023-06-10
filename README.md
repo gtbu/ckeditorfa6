@@ -1,3 +1,5 @@
+**** At the moment this plugin needs Fa5 or ck-material - plugin from typesettercms.com installed for correct function ...
+
 # ckeditorfa6
 ckeditor fontAwesome 6 plugin with Font Awesome v.6.x (current branch is compatible with Font Awesome **v.6**)
 
