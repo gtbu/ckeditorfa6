@@ -1,5 +1,5 @@
-@import url('all.min.css');
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+/* @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');  */
 
 .fab,.far,.fas{display:inline-block;font-size:14px;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:inherit;cursor:pointer}
 .far,.fas{font-family:"Font Awesome 6 Free"}
